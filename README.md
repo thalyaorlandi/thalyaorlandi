@@ -2,7 +2,7 @@
 
 - 💼 Monitora de transporte escolar
 - 📚 Aprendiz de programação
-- 📫 Contate-me no email: thalyaoliveira60@outlook.com
+- 📫 Contate-me no email:thalyaoliveira60@outlook.com
 
 <div align="center">
   <a href="https://github.com/thalyaorlandi">
