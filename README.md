@@ -1,6 +1,6 @@
 ### Olá!! Sou a Thalya Orlandi
 
-- 💼 Monitora de transporte escolar
+- 💼  Instrutora  em Escola de Programaação e Robótica/Monitora de transporte escolar
 - 📚 Aprendiz de programação
 - 📫 Contate-me no email:thalyaoliveira60@outlook.com
 
